@@ -1,7 +1,9 @@
 <h1 align="center">Cpp_Bootcamp</h1>
 <p align="center">I'm learning C++ because Python is kinda too slow !</p>
 <p align="left">Vectors are the same as dynamic arrays with the ability to resize itself automatically when an element is inserted or deleted, with their storage being handled automatically by the container. Vector elements are placed in contiguous storage so that they can be accessed and traversed using iterators. In vectors, data is inserted at the end. Inserting at the end takes differential time, as sometimes the array may need to be extended. Removing the last element takes only constant time because no resizing happens. Inserting and erasing at the beginning or in the middle is linear in time.</p>
-## FINDING BUGS :
+
+## 🐛 BUGS Finder:
+
 Finding bugs is a huge part of a programmer’s life. Don’t be intimidated by them… embrace them. Errors in your code mean you’re trying to do something cool!
 
 > In this lesson, we have learned about the four types of C++ errors :
@@ -38,4 +40,4 @@ We can use a for loop to iterate through a vector.
 
 Contributions, issues, and feature requests are welcome!
 
-Give a ⭐️ if you find this Repo useful!
+> Give a ⭐️ if you find this Repo useful!
