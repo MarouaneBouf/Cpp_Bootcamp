@@ -19,6 +19,19 @@ Finding bugs is a huge part of a programmer’s life. Don’t be intimidated by 
  > We wish you the best of luck in your bug-squashing journey.
 
 
+Vectors are a sequence of elements that you can access by an index.
+
+std::vector<int> even = {2, 4, 6, 8, 10};
+The first index in a vector is 0.
+
+Some of the functions that come with vectors:
+
+>push_back()
+>pop_back()
+>size()
+
+We can use a for loop to iterate through a vector.
+
 
 
 ## 🤝 Support
